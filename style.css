@@ -1,3 +1,52 @@
-h1 {
-    color: blue;
+* {
+    font-family: sans-serif;
 }
+
+.home-link {
+    position: absolute;
+    left: 37%;
+    top: 2.6%;
+}
+
+.sec-link {
+    position: absolute;
+    left: 46%;
+    top: 2.6%;
+}
+
+.thir-link {
+    position: absolute;
+    left: 64%;
+    top: 2.6%;
+}
+body {
+    position: absolute;
+    left: 15%; 
+}
+.img{
+    width: 750px;
+    height: auto;
+}
+.steps { 
+    width: 750px;
+}
+
+
+#home-link-la {
+    position: absolute;
+    left: 20%;
+    top: 2.6%;
+}
+#sec-link-la {
+    position: absolute;
+    left: 29%;
+    top: 2.6%;
+}
+#thir-link-la {
+    position: absolute;
+    left: 54%;
+    top: 2.6%;
+}
+
+
+
